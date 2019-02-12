@@ -1,2 +1,2 @@
-# FortranProgressbar
-CUI Progress bar made with Fortran
+# Progress bar in CUI (Fortran)
+This program enables Fortran programmers to show progress bar in CUI  
